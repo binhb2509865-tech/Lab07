@@ -8,3 +8,6 @@ Link: https://docs.google.com/forms/d/1zr-risikS_BkS7WCOs6CxigxYxz7RWDJBvjKXfoFB
 
 ## Website giới thiệu bản thân
 Link: https://sites.google.com/d/1s-kvaUhAlGwqYtRJzDV0YQvF7vLiUoxC/p/1zoR0IlVK2f1vif7DyZON4PRRUF7EwBiu/edit
+
+## Quản lý dự án (Trello)
+Link: https://trello.com/b/FWLlr8qn/lab07ex3
